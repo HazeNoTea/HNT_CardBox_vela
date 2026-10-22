@@ -1,0 +1,90 @@
+{
+  "item": {
+    "id": "com.hazenotea.cardbox.watch",
+    "restype": "quick_app",
+    "name": "天空牌盒",
+    "description": "完全免费，由HazeNoTea制作的卡牌游戏盒子，目前只有斗地主一个玩法\n\n游戏内置多个难度的人机，通过打败人机获取金豆，赢得更高的段位",
+    "preview": [
+      "media/大图.png",
+      "media/宣传图_2.png",
+      "media/宣传图_1.png"
+    ],
+    "icon": "media/logo256.png",
+    "cover": "media/大图.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.0.0.rpk",
+      "versionCode": 5
+    }
+  },
+  "ext": {}
+}
