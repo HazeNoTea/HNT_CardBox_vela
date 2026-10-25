@@ -3,7 +3,7 @@
     "id": "com.hazenotea.cardbox.watch",
     "restype": "quick_app",
     "name": "天空牌盒",
-    "description": "完全免费，由HazeNoTea制作的卡牌游戏盒子，内含斗地主、蜘蛛纸牌模式以及多个难度可选\n\n斗地主内置多个难度人机，通过打败人机获取金豆，赢得更高的段位",
+    "description": "完全免费，由HazeNoTea制作的卡牌游戏盒子，内含斗地主、蜘蛛纸牌、UNO玩法以及多个难度可选\n\n内置人机，通过打败人机获取金豆，赢得更高的段位",
     "preview": [
       "media/大图.png",
       "media/宣传图_1.png",
@@ -21,69 +21,69 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmrw5xring": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmrw6": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb10": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb10nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb10p": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb11": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb11nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb9": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmb9p": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmws4xring": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmws441": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     },
     "xmws4": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.1.0.rpk",
-      "versionCode": 10
+      "version": "1.2.0",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.2.0.rpk",
+      "versionCode": 15
     }
   },
   "ext": {}
