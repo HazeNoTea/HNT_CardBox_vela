@@ -3,7 +3,7 @@
     "id": "com.hazenotea.cardbox.watch",
     "restype": "quick_app",
     "name": "天空牌盒",
-    "description": "完全免费，由HazeNoTea制作的卡牌游戏盒子\n\n目前有斗地主、蜘蛛纸牌、UNO、骗子酒馆、三国杀五种玩法、多个难度可选\n\n多种玩法内置人机，通过打败人机获取金豆，赢得更高的段位\n\nv1.4.0\n1. 优化点牌速度\n2. 新增三国杀玩法",
+    "description": "完全免费，由HazeNoTea制作的卡牌游戏盒子\n\n目前有斗地主、蜘蛛纸牌、UNO、骗子酒馆、三国杀五种玩法、多个难度可选\n\n多种玩法内置人机，通过打败人机获取金豆，赢得更高的段位\n\nv1.4.5\n1. 修复了一些Bug\n2. 补齐三国杀的图片资源\n3. 修复三国杀可无懈可击自己手牌的Bug\n4. 骗子酒吧和三国杀的震动补齐",
     "preview": [
       "media/大图.png",
       "media/宣传图_1.png",
@@ -21,69 +21,69 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmrw5xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmrw6": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb10": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb10nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb10p": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb11": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb11nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb9": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmb9p": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmws4xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmws441": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     },
     "xmws4": {
-      "version": "1.4.0",
-      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.0.rpk",
-      "versionCode": 25
+      "version": "1.4.5",
+      "file_name": "downloads/com.hazenotea.cardbox.watch.release.1.4.5.rpk",
+      "versionCode": 30
     }
   },
   "ext": {}
